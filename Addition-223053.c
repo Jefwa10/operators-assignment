@@ -1,4 +1,4 @@
-//program to find the product of two numbers
+//program to find the sum of two numbers
 
 #include<stdio.h>
 
