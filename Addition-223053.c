@@ -5,16 +5,16 @@
 int main()
 
 {
-int a,b,c;
+int num1,num2,sum;
 
 printf("Enter the first number\n");
-scanf("%d",&a);
+scanf("%d",&num1);
 
 printf("Enter the second\n");
-scanf("%d",&b);
+scanf("%d",&num2);
 
- c=a+b;
-printf("add=%d",c);
+ sum=num1+num2;
+printf("add=%d",sum);
 
 return 0;
 }
